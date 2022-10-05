@@ -12,7 +12,7 @@ const ColorePreUtente = prompt('Quall e il tuo colore preferito ?');
 const EtaUtente = prompt('Quanti anni hai ?');
 const saluto = `
 
-    ${NomeUtente} ${CognomeUtente} ${ColorePreUtente} ${EtaUtente}
+    ${NomeUtente}${CognomeUtente}${ColorePreUtente}${EtaUtente}
 `;
 
 // const elemento = Funziona anche senza questa variabile
